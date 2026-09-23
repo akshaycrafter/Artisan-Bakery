@@ -1,8 +1,8 @@
-# Maison Miel — Artisan Bakery
+# Miellora — Artisan Bakery
 
 A landing page concept for a warm, handcrafted-feeling artisan bakery in Connaught Place, New Delhi.
 
-🔗 **Live:** https://maison-miel.akshaycodecrafter.workers.dev/
+🔗 **Live:** https://miellora.akshaycodecrafter.workers.dev/
 
 ## Preview
 
@@ -18,7 +18,7 @@ A landing page concept for a warm, handcrafted-feeling artisan bakery in Connaug
 
 ## About
 
-Maison Miel came from wanting a bakery site that felt handmade rather than corporate — most bakery landing pages either go overly cute or overly minimal, and I wanted something in between: warm tones, real texture, and enough detail (a founding year, a story section, a stats card) to feel like an actual neighborhood spot rather than a template. The whole page is built around the idea of a small team baking fresh, single-batch bread and pastries every morning.
+Miellora came from wanting a bakery site that felt handmade rather than corporate — most bakery landing pages either go overly cute or overly minimal, and I wanted something in between: warm tones, real texture, and enough detail (a founding year, a story section, a stats card) to feel like an actual neighborhood spot rather than a template. The whole page is built around the idea of a small team baking fresh, single-batch bread and pastries every morning.
 
 ## What's on the page
 
