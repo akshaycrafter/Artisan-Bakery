@@ -13,8 +13,6 @@ A landing page concept for a warm, handcrafted-feeling artisan bakery in Connaug
 ![Story section with the bakery's founding narrative and timeline cards](assets/preview-story.png)
 
 ![Bestsellers section highlighting top-selling items with per-item and combo pricing](assets/preview-bestsellers.png)
-
-![Order section with WhatsApp and phone contact options](assets/preview-order.png)
 )
 
 ## About
