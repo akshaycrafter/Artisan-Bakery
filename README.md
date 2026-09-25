@@ -2,7 +2,7 @@
 
 A landing page concept for a warm, handcrafted-feeling artisan bakery in Connaught Place, New Delhi.
 
-🔗 **Live:** https://miellora.akshaycodecrafter.workers.dev/
+🔗 **Live:** https://artisan-bakery.akshaycodecrafter.workers.dev/
 
 ## Preview
 
