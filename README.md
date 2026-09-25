@@ -47,7 +47,7 @@ Same reasoning as my other landing-page concepts: for a single page like this, a
 ## Running it locally
 
 ```
-maison-miel/
+Artisan Bakery/
 ├── index.html
 ├── css/
 │   └── style.css
